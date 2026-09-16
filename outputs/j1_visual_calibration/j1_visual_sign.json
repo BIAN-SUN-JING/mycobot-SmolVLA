@@ -1,0 +1,16 @@
+{
+  "baseline_j1_deg": 9.84,
+  "final_j1_deg": 9.05,
+  "requested_delta_deg": 2.0,
+  "observed_j1_positive_deg": 10.98,
+  "observed_j1_negative_deg": 8.52,
+  "baseline_centroid_x": 518.9813617792848,
+  "positive_centroid_x": 534.9890857040615,
+  "negative_centroid_x": 512.7550814946694,
+  "dx_per_j1_degree": 9.03821309324881,
+  "smolvla_dim1_neutral": 0.25907252,
+  "smolvla_dim1_typical_amplitude": 0.12798154,
+  "recommended_mapping_sign": -1,
+  "future_formula": "delta_J1 = mapping_sign * gain * (smolvla_dim1 - neutral)",
+  "robot_action_executed": false
+}

@@ -1,0 +1,182 @@
+{
+  "model": "lerobot/smolvla_base",
+  "task": "Move the end effector toward the red object.",
+  "seed": 42,
+  "center_x": 320.0,
+  "samples": [
+    {
+      "position": 1,
+      "sample": 1,
+      "pixel_x": 200.40239390865023,
+      "pixel_y": 182.67374796323054,
+      "red_area": 16263.5,
+      "dim1": 0.22850002348423004,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P1_S1_20260915_191801.jpg"
+    },
+    {
+      "position": 1,
+      "sample": 2,
+      "pixel_x": 200.16729702858663,
+      "pixel_y": 182.63741377366418,
+      "red_area": 16260.5,
+      "dim1": 0.2979854643344879,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P1_S2_20260915_191801.jpg"
+    },
+    {
+      "position": 1,
+      "sample": 3,
+      "pixel_x": 201.0156376326589,
+      "pixel_y": 182.6691228393356,
+      "red_area": 16285.5,
+      "dim1": 0.34293875098228455,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P1_S3_20260915_191801.jpg"
+    },
+    {
+      "position": 2,
+      "sample": 1,
+      "pixel_x": 247.5951627887556,
+      "pixel_y": 195.81915260075783,
+      "red_area": 15966.5,
+      "dim1": 0.2359343022108078,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P2_S1_20260915_191813.jpg"
+    },
+    {
+      "position": 2,
+      "sample": 2,
+      "pixel_x": 247.85222232609348,
+      "pixel_y": 195.62456763578572,
+      "red_area": 16045.5,
+      "dim1": 0.2581448256969452,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P2_S2_20260915_191813.jpg"
+    },
+    {
+      "position": 2,
+      "sample": 3,
+      "pixel_x": 247.77544966275295,
+      "pixel_y": 195.65424889666082,
+      "red_area": 16012.0,
+      "dim1": 0.24699363112449646,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P2_S3_20260915_191813.jpg"
+    },
+    {
+      "position": 3,
+      "sample": 1,
+      "pixel_x": 345.7663098385675,
+      "pixel_y": 223.00608327422023,
+      "red_area": 15507.0,
+      "dim1": 0.1911180317401886,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P3_S1_20260915_191826.jpg"
+    },
+    {
+      "position": 3,
+      "sample": 2,
+      "pixel_x": 348.15741008736666,
+      "pixel_y": 223.04115345446746,
+      "red_area": 15547.5,
+      "dim1": 0.17485544085502625,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P3_S2_20260915_191826.jpg"
+    },
+    {
+      "position": 3,
+      "sample": 3,
+      "pixel_x": 346.70319428786166,
+      "pixel_y": 223.16756321468836,
+      "red_area": 15522.5,
+      "dim1": 0.1471460461616516,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P3_S3_20260915_191827.jpg"
+    },
+    {
+      "position": 4,
+      "sample": 1,
+      "pixel_x": 409.12517945230616,
+      "pixel_y": 232.01164685944968,
+      "red_area": 15440.5,
+      "dim1": 0.2495606541633606,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P4_S1_20260915_191835.jpg"
+    },
+    {
+      "position": 4,
+      "sample": 2,
+      "pixel_x": 409.1940900807081,
+      "pixel_y": 231.74195088084699,
+      "red_area": 15364.0,
+      "dim1": 0.26577478647232056,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P4_S2_20260915_191836.jpg"
+    },
+    {
+      "position": 4,
+      "sample": 3,
+      "pixel_x": 410.065729220667,
+      "pixel_y": 231.79280067392432,
+      "red_area": 15432.0,
+      "dim1": 0.3045276701450348,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P4_S3_20260915_191836.jpg"
+    },
+    {
+      "position": 5,
+      "sample": 1,
+      "pixel_x": 531.514427238125,
+      "pixel_y": 253.91911987069187,
+      "red_area": 15982.5,
+      "dim1": 0.2546902894973755,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P5_S1_20260915_191847.jpg"
+    },
+    {
+      "position": 5,
+      "sample": 2,
+      "pixel_x": 531.8369248141527,
+      "pixel_y": 253.8407724559037,
+      "red_area": 15940.5,
+      "dim1": 0.23786304891109467,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P5_S2_20260915_191848.jpg"
+    },
+    {
+      "position": 5,
+      "sample": 3,
+      "pixel_x": 531.8294197453558,
+      "pixel_y": 254.14535587560007,
+      "red_area": 15970.0,
+      "dim1": 0.2388349324464798,
+      "image": "D:\\myCobot_SmolVLA\\outputs\\dim1_pixel_calibration\\P5_S3_20260915_191848.jpg"
+    }
+  ],
+  "groups": [
+    {
+      "position": 1,
+      "mean_pixel_x": 200.52844285663193,
+      "mean_dim1": 0.28980807960033417,
+      "std_dim1": 0.0470758806160244
+    },
+    {
+      "position": 2,
+      "mean_pixel_x": 247.74094492586735,
+      "mean_dim1": 0.24702425301074982,
+      "std_dim1": 0.009067434097067867
+    },
+    {
+      "position": 3,
+      "mean_pixel_x": 346.87563807126526,
+      "mean_dim1": 0.17103983958562216,
+      "std_dim1": 0.018153107882950784
+    },
+    {
+      "position": 4,
+      "mean_pixel_x": 409.4616662512271,
+      "mean_dim1": 0.27328770359357196,
+      "std_dim1": 0.023060444549567283
+    },
+    {
+      "position": 5,
+      "mean_pixel_x": 531.7269239325445,
+      "mean_dim1": 0.2437960902849833,
+      "std_dim1": 0.007713573394177861
+    }
+  ],
+  "fit": {
+    "slope": -7.493009678217634e-05,
+    "intercept": 0.2710119223942202,
+    "r2": 0.03384137199606718,
+    "neutral_dim1_at_center": 0.24703429142392375
+  },
+  "verdict": "WEAK_OR_NONLINEAR_RELATION"
+}
